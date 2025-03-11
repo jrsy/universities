@@ -64,8 +64,6 @@ export default function Home() {
 			newFavourites.push(university);
 			setFavouriteUniversities(newFavourites);
 		}
-		
-		
 	}
 
   return (
